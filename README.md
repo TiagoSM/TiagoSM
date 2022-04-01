@@ -18,7 +18,7 @@
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiago-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Tiago-Blueprint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-  <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;" src="img gif discord web">
+  <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/902297282509172797/959242829585076275/download20220304210714.png">
 </div>
   
   
