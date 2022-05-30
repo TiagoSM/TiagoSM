@@ -1,15 +1,13 @@
 ## Oi! Eu sou o Tiago Santos Mesquita
 
 
-- 🌱 Me especializando no Backend com a linguagem Java no framework Spring
-- 📫 Contate-me no e-mail: tiagosantosmes@gmail.com
+- 🌱 Me especializando em programação de jogos com a Unreal Engine 4.
 
 <body>
 
 <div align="center">
   <a href="https://github.com/TiagoSM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoSM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSM&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
