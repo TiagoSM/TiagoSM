@@ -1,4 +1,4 @@
-## Oi! Eu sou o Tiago Santos Mesquita
+## Oi! Eu sou o Tiago
 
 
 - 🌱 Me especializando em programação de jogos com a Unreal Engine 4.
