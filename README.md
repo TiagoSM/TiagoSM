@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Tiago
 
 
-- 🌱 Me especializando em programação de jogos com a Unreal Engine 4.
+- 🌱 Me especializando em programação de jogos com a Unreal Engine 4 e Web com Node.js
 
 <body>
 
