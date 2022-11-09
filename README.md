@@ -9,9 +9,9 @@
 - Habilidades:
 
 
--> HTML & CSS
+    -> HTML & CSS
 
--> C
+    -> C
 
 <body>
 
