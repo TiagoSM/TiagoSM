@@ -4,9 +4,12 @@
 - 🌱 Me especializando em programação de jogos com a Unreal Engine 4 e Web com Node.js
 
 
--Habilidades:
+
+- Habilidades:
+
 
 -> HTML & CSS
+
 -> C
 
 <body>
