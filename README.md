@@ -1,18 +1,35 @@
-## Oi! Eu sou o Tiago
+## Perfil de Tiago Santos Mesquita
 
 
-- 🌱 Me especializando em programação de jogos com a Unreal Engine 4 e Web com Node.js
+- 🌱 Me especializando em programação de jogos
 
 
 
 
 - Habilidades:
 
+    -> Unreal engine 4
 
-    -> HTML & CSS
-
+    -> Blueprint
+    
+    -> Blender
+    
+    -> 3Ds Max
+    
+    -> Git
+    
+    
+ - Estudando:
+ 
     -> C
-
+    
+    -> C++
+    
+    -> C#
+    
+    -> Unity
+    
+    
 <body>
 
 <div align="center">
@@ -21,10 +38,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="center" alt="Tiago-Blueprint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-  <img align="center" alt="Tiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Tiago-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Tiago-Blueprint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
+<img align="center" alt="Tiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Tiago-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 </div>
   
   
