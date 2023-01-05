@@ -14,20 +14,12 @@
     
     -> Blender
     
-    -> 3Ds Max
-    
     -> Git
     
     
  - Estudando:
  
     -> C
-    
-    -> C++
-    
-    -> C#
-    
-    -> Unity
     
     
 <body>
