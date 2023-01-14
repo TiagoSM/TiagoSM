@@ -13,7 +13,9 @@
   <a href="https://github.com/TiagoSM">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-Blueprint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
+  
+  <img align="center" alt="Tiago-Unreal Engine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
+  <img align="center" alt="Tiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="center" alt="Tiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Tiago-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 </div><br/>
