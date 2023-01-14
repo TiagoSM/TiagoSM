@@ -20,5 +20,5 @@
  </body>
     
     
-Estudando C para ter um aprendizado melhor de C++, com o objetivo de conseguir o meu primeiro emprego como Estagiário em programação de jogos.
+Estudando C++, com o objetivo de conseguir o meu primeiro emprego como Estagiário em programação de jogos.
  
