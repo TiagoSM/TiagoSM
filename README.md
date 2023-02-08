@@ -5,6 +5,7 @@
 [![Portfólio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://tiago-santos-games.itch.io/)
 
 [![TiagoSM GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoSM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSM)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
