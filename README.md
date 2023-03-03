@@ -23,5 +23,4 @@
  </body>
     
     
-Estudando C++, com o objetivo de conseguir o meu primeiro emprego como Estagiário em programação de jogos.
- 
+Estudando HTML, com o objetivo de conseguir o meu primeiro emprego como Estagiário na área de tecnologia.
