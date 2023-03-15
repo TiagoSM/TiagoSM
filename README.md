@@ -20,4 +20,4 @@
  </body>
     
     
-Estudando HTML, com o objetivo de conseguir o meu primeiro emprego como Estagiário na área de tecnologia.
+Estudando HTML, com o objetivo de conseguir o meu primeiro emprego como Estagiário na área de desenvolvimento Web.
