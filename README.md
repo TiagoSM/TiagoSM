@@ -20,4 +20,4 @@
  </body>
     
     
-Estudando CSS, com o objetivo de conseguir o meu primeiro emprego como Estagiário na área de desenvolvimento Web.
+Estudando JavaScript, com o objetivo de conseguir o meu primeiro emprego como Estagiário na área de desenvolvimento Web.
