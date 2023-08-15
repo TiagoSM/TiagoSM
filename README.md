@@ -20,4 +20,4 @@
  </body>
     
     
-Estudando TailWind, com o objetivo de conseguir o meu primeiro emprego como Estagiário na área de desenvolvimento Web.
+Revisando a tríade HTML, CSS e JavaScript; com o objetivo de conseguir o meu primeiro emprego como Estagiário na área de desenvolvimento Web.
