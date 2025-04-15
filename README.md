@@ -1,12 +1,21 @@
-## Perfil de Tiago Santos Mesquita 🙂
+# 🧑🏻‍💻 Tiago Mesquita | Instrutor de informática
+
+##### Desenvolvimento de software | 💻 HTML & CSS; JavaScript; Java; Godot engine
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-santos-mesquita/)
 
-[![TiagoSM GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoSM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)]
+
+## 🚀 Sobre mim
+Apaixonado por tecnologia da informação, tenho conhecimento em várias linguagens de programação e tecnologias, sempre busco o aprendizado contínuo. 😁
+
+
+
+[![TiagoSM GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoSM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSM)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias
+## 🖥️ Tecnologias
 
 <body>
 <div align="center">
@@ -24,6 +33,3 @@
   <img align="center" alt="Tiago-Neatbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 </div><br/>
  </body>
-    
-    
-Sempre aprendendo mais para conseguir concretizar projetos de forma mais rápida e eficiente!
