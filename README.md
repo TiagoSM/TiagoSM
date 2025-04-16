@@ -7,8 +7,12 @@
 ##### **Desenvolvimento de sites | 💻 Java; HTML & CSS; JavaScript; WordPress**
 
 
-## 🚀 Sobre mim
-Apaixonado por tecnologia da informação, tenho conhecimento em várias linguagens de programação e tecnologias, sempre busco o aprendizado contínuo. 😁
+## 🚀 Apaixonado por programação
+Comecei na programação através de um curso de HTML e CSS da Bitdegree lá em 2020 durante a pandemia, desde lá venho constantemente estudando. Ademais, em 2021 iniciei na programação de jogos, mas em 2023 voltei para o desenvolvimento Web e aqui estou eu desde então! 😁
+
+
+## 📖 Mais sobre mim
+
 
 
 ## 🖥️ Tecnologias
