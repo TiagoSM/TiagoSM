@@ -1,8 +1,10 @@
 # 🧑🏻‍💻 Tiago Mesquita | Desenvolvedor Web
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://devtiagomesquita.wuaze.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-santos-mesquita/)
-
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://codando-com-tiago.itch.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codandocomtiago)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomesquitaweb@gmail.com)
 
 ##### **Desenvolvimento de sites | 💻 Java; HTML & CSS; JavaScript; WordPress**
 
