@@ -14,7 +14,10 @@ Comecei na programação através de um curso de HTML e CSS da Bitdegree lá em 
 
 
 ## 📖 Mais sobre mim
-
+- Freelancer WordPress.
+- Cursando Ciência da Computação no 6º período.
+- Desenvolvedor de jogos Indie.
+- Desenvolvedor Java FullStack.
 
 
 ## 🖥️ Tecnologias
