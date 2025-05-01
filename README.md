@@ -1,10 +1,10 @@
-# 🧑🏻‍💻 Tiago Mesquita | Desenvolvedor Web
+# 🧑🏻‍💻 Tiago Mesquita | Estagiário de TI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://devtiagomesquita.wuaze.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-santos-mesquita/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomesquitaweb@gmail.com)
 
-##### **Desenvolvimento de sites | 💻 Java; HTML & CSS; JavaScript; WordPress**
+##### **Desenvolvimento de sites | 🐘WordPress e PHP**
 
 
 ## 🚀 Apaixonado por programação
@@ -14,14 +14,14 @@ Comecei na programação através de um curso de HTML e CSS da Bitdegree lá em 
 ## 📖 Mais sobre mim
 - Instrutor de informática.
 - Cursando Ciência da Computação no 6º período.
-- Desenvolvedor Java FullStack.
+-Freelancer WordPress.
 
 
 ## 🖥️ Tecnologias
 
 - Frontend: HTML & CSS, JavaScript.
-- Backend: Java, Python, C/C#, PHP.
-- Ferramentas: WordPress, Visual Studio Code, NetBeans IDE, Eclipse IDE, Git, GitHub, MySQL, Godot engine.
+- Backend: PHP, Java, Python, C/C#.
+- Ferramentas: WordPress, Visual Studio Code, NetBeans IDE, Eclipse IDE, Git, GitHub, MySQL, Godot engine, Blender, 3Ds Max, Unreal Engine, Flask.
 
 
 
