@@ -12,9 +12,10 @@ Comecei na programação através de um curso de HTML e CSS da Bitdegree lá em 
 
 
 ## 📖 Mais sobre mim
-- Instrutor de informática.
+- Instrutor de Informática | Games | Programação | Robótica.
 - Cursando Ciência da Computação no 6º período.
--Freelancer WordPress.
+- Freelancer WordPress.
+- Desenvolvedor de Jogos Indie.
 
 
 ## 🖥️ Tecnologias
