@@ -7,22 +7,22 @@
 ##### **Desenvolvimento de sites | 🐘WordPress e PHP**
 
 
-## 🚀 Apaixonado por programação
-Comecei na programação através de um curso de HTML e CSS da Bitdegree lá em 2020 durante a pandemia, desde lá venho constantemente estudando. Ademais, em 2021 iniciei na programação de jogos, mas em 2023 voltei para o desenvolvimento Web e aqui estou eu desde então! 😁
+## 🤩 Seja bem-vindo ao meu perfil!
+Comecei na área de tecnologia da informação através de um curso de HTML e CSS da Bitdegree lá em 2020 durante a pandemia, desde lá venho constantemente estudando. Ademais, em 2021 iniciei no desenvolvimento de jogos, mas em 2023 voltei para o desenvolvimento Web e agora estou me aventurando como Instrutor no tempo livre! 😁
 
 
-## 📖 Mais sobre mim
-- Instrutor de Informática | Games | Programação | Robótica.
+📖 Mais sobre mim:
+- Instrutor de Informática e Games.
 - Cursando Ciência da Computação no 6º período.
-- Freelancer WordPress.
-- Desenvolvedor de Jogos Indie.
 
 
-## 🖥️ Tecnologias
-
+🖥️ Tecnologias:
 - Frontend: HTML & CSS, JavaScript.
-- Backend: PHP, Java, Python, C/C#.
-- Ferramentas: WordPress, Visual Studio Code, NetBeans IDE, Eclipse IDE, Git, GitHub, MySQL, Godot engine, Blender, 3Ds Max, Unreal Engine, Flask.
+- Backend: Java, Python, C/C#, PHP.
+- Ferramentas: WordPress, Visual Studio Code, NetBeans IDE, Eclipse IDE, Git, GitHub, MySQL, Pacote Office completo, Unreal Engine, Godot Engine, Blender, 3Ds Max, Flask.
+
+
+Através da faculdade aprendi Sistemas Operacionais, Redes de Computadores, Programação Orientada a Objetos (Java), Algoritmo e Estrutura de Dados Avançado (C), Programação em Banco de Dados (SQL e MySQL), Engenharia de software e entre outras.
 
 
 
