@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-santos-mesquita/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomesquitaweb@gmail.com)
 
-##### **Desenvolvimento de sites | 🐘WordPress e PHP**
-
 
 ## 🤩 Seja bem-vindo ao meu perfil!
 Comecei na área de tecnologia da informação através de um curso de HTML e CSS da Bitdegree lá em 2020 durante a pandemia, desde lá venho constantemente estudando. Ademais, em 2021 iniciei no desenvolvimento de jogos, mas em 2023 voltei para o desenvolvimento Web e agora estou me aventurando como Instrutor no tempo livre! 😁
@@ -19,7 +17,7 @@ Comecei na área de tecnologia da informação através de um curso de HTML e CS
 🖥️ Tecnologias:
 - Frontend: HTML & CSS, JavaScript.
 - Backend: Java, Python, C/C#, PHP.
-- Ferramentas: WordPress, Visual Studio Code, NetBeans IDE, Eclipse IDE, Git, GitHub, MySQL, Pacote Office completo, Unreal Engine, Godot Engine, Blender, 3Ds Max, Flask.
+- Ferramentas: WordPress, Visual Studio Code, NetBeans IDE, Eclipse IDE, Git, GitHub, MySQL, Pacote Office completo, Unreal Engine, Blender, Flask.
 
 
 Através da faculdade aprendi Sistemas Operacionais, Redes de Computadores, Programação Orientada a Objetos (Java), Algoritmo e Estrutura de Dados Avançado (C), Programação em Banco de Dados (SQL e MySQL), Engenharia de software e entre outras.
