@@ -6,22 +6,29 @@
 
 
 ## 🤩 Seja bem-vindo ao meu perfil!
-Comecei na área de tecnologia da informação através de um curso de HTML e CSS da Bitdegree lá em 2020 durante a pandemia, desde lá venho constantemente estudando. Ademais, em 2021 iniciei no desenvolvimento de jogos, mas em 2023 voltei para o desenvolvimento Web e agora estou me aventurando como Instrutor no tempo livre! 😁
 
+Sou estudante de Ciência da Computação (6º período) e atualmente Estagiário em Gestão de Redes na Leste Telecom, além de Instrutor de Informática e Games.
 
-📖 Mais sobre mim:
-- Instrutor de Informática e Games.
-- Cursando Ciência da Computação no 6º período.
+## 🧠 | Minha jornada em TI:
+- 2020: Informática.
+- 2021: Desenvolvimento de Jogos.
+- 2023: Desenvolvimento Web.
+- 2024 - Atual: Suporte de TI & Gestão de Redes.
 
+## 💼 | Atuação no estágio:
+- Monitoramento e homologação de ativos de rede.
+- Configuração e cadastro de sub-redes IPv4/IPv6.
+- Suporte remoto a clientes.
+- Aferição de desempenho de equipamentos (Mbps/Gbps).
 
-🖥️ Tecnologias:
-- Frontend: HTML & CSS, JavaScript.
-- Backend: Java, Python, C/C#, PHP.
-- Ferramentas: WordPress, Visual Studio Code, NetBeans IDE, Eclipse IDE, Git, GitHub, MySQL, Pacote Office completo, Unreal Engine, Blender, Flask.
+## 🛠 | Tecnologias & Ferramentas:
 
+- Frontend: HTML5/CSS3, JavaScript.
+- Backend: Java, Python, C#, PHP.
+- Banco de Dados: SQL, MySQL.
+- Ferramentas: VS Code, Eclipse, Git/GitHub, WordPress, Flask, Unreal, Blender.
 
-Através da faculdade aprendi Sistemas Operacionais, Redes de Computadores, Programação Orientada a Objetos (Java), Algoritmo e Estrutura de Dados Avançado (C), Programação em Banco de Dados (SQL e MySQL), Engenharia de software e entre outras.
-
+Comprometido em expandir minha expertise em redes e contribuir cada vez mais na equipe de TI da Leste Telecom. 💚
 
 
 
